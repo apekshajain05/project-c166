@@ -1,0 +1,469 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 34880,
+      "max": [
+        5.0775642395019531,
+        3.3069381713867188,
+        5.0775642395019531
+      ],
+      "min": [
+        -5.0775642395019531,
+        -3.9038650989532471,
+        -5.0775642395019531
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 418560,
+      "componentType": 5126,
+      "count": 34880,
+      "max": [
+        1,
+        0.72712743282318115,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 34880,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 123276,
+      "max": [
+        34879
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 837120,
+      "componentType": 5126,
+      "count": 4609,
+      "max": [
+        3.2137448787689209,
+        -3.903864860534668,
+        3.2137448787689209
+      ],
+      "min": [
+        -3.2137446403503418,
+        -4.8534812927246094,
+        -3.2137446403503418
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 892428,
+      "componentType": 5126,
+      "count": 4609,
+      "max": [
+        0.5741194486618042,
+        -0.81877148151397705,
+        0.57411926984786987
+      ],
+      "min": [
+        -0.57411938905715942,
+        -1,
+        -0.57411926984786987
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 558080,
+      "componentType": 5126,
+      "count": 4609,
+      "max": [
+        0.99992948770523071,
+        0,
+        0.99992948770523071,
+        1
+      ],
+      "min": [
+        -0.99992948770523071,
+        -0.57411956787109375,
+        -0.99992948770523071,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 493104,
+      "componentType": 5125,
+      "count": 17664,
+      "max": [
+        4608
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 947736,
+      "componentType": 5126,
+      "count": 2098,
+      "max": [
+        11.059384346008301,
+        30.689266204833984,
+        11.059384346008301
+      ],
+      "min": [
+        -11.059384346008301,
+        4.9900021553039551,
+        -11.059384346008301
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 972912,
+      "componentType": 5126,
+      "count": 2098,
+      "max": [
+        0.99970483779907227,
+        0.99999994039535522,
+        0.99970477819442749
+      ],
+      "min": [
+        -0.99970477819442749,
+        -1,
+        -0.99970477819442749
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 631824,
+      "componentType": 5126,
+      "count": 2098,
+      "max": [
+        1,
+        0.070555925369262695,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.0623292475938797,
+        -0.99999487400054932,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 563760,
+      "componentType": 5125,
+      "count": 11520,
+      "max": [
+        2097
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "mugislan (https://sketchfab.com/mugislan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/695995c32f194a81811c5e53fa872392",
+      "title": "Light Bulb"
+    },
+    "generator": "Sketchfab-3.18.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 609840,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 998088,
+      "byteOffset": 609840,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 665392,
+      "byteOffset": 1607928,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2273320,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Silver_-_High_Reflection",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1055604129,
+          0.1055604129,
+          0.1055604129,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.040112326099999998,
+          0.040112326099999998,
+          0.040112326099999998,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "name": "Glas_002",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0.021249961899999999
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Polygon_1_Silver - High Reflection_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Polygon_1_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rotace_Glas 002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "c1e52d1d0a23406cbc0bee321cc85a42.fbx"
+    },
+    {
+      "children": [
+        4,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -6.7092189788818359,
+        0,
+        1
+      ],
+      "name": "Polygon_1"
+    },
+    {
+      "mesh": 0,
+      "name": "Polygon_1_Silver - High Reflection_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Polygon_1_Mat_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -8.4966001510620117,
+        0,
+        1
+      ],
+      "name": "Rotace"
+    },
+    {
+      "mesh": 2,
+      "name": "Rotace_Glas 002_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,11 @@
+Model Information:
+* title:	battery duracell
+* source:	https://sketchfab.com/3d-models/battery-duracell-3c3fcc0d17754c9494a2f9c2deaa6139
+* author:	yulaflı bisküvi (https://sketchfab.com/samere)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "battery duracell" (https://sketchfab.com/3d-models/battery-duracell-3c3fcc0d17754c9494a2f9c2deaa6139) by yulaflı bisküvi (https://sketchfab.com/samere) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Web AR Using A-Frame</title>
+        <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+        <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.min.js"></script>
+        <script src="https://raw.githack.com/whitehatjr/ar-gesture-handler/main/index.js"></script>
+      </head>
+
+      <body style="margin : 0px; overflow: hidden;">
+
+        <a-scene embedded arjs >
+
+      <a-assets>
+          <a-asset-item id='bulb_model' src='./assets/models/low_poly_light_bulb/scene.gltf'></a-asset-item>
+          <a-asset-item id='switch_model' src='./assets/models/light_switch/scene.gltf'></a-asset-item>
+          <a-asset-item id='battery_model' src='./assets/models/battery/scene.gltf'></a-asset-item>
+      </a-assets>
+
+      <a-marker preset='hiro'>
+          
+        <a-plane id='plane' position='0 0 -0.6' rotation='-90 0 0' height='2.5' width='2.5'></a-plane>
+        <a-entity id='battery' position='0.2 1 -0.3' gltf-model='#battery_model' scale='0.3 0.3 0.3' rotation='-90 90 0'>
+        </a-entity>
+        <a-entity id='bulb' position='0 1 -0.3' gltf-model='#bulb_model' scale='0.1 0.1 0.1' rotation='-90 0 0'>
+        </a-entity>
+
+         
+      </a-marker>
+      </a-scene>
+    </body>
+</html>
